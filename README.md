@@ -61,7 +61,7 @@
 
 ## 五、资源
 
-爬虫代码：见boss.ipynb
+爬虫代码：见boss.py
 
 数据集：boss直聘(1).csv
 
